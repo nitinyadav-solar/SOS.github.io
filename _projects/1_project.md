@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Trip to Leh
+title: Leh & Laddakh
 description: A trip to Leh, India
 img: assets/img/leh1.jpg
 importance: 1
-category: work
+category: India
 ---
 A memorable journey into the Himalayas.
 

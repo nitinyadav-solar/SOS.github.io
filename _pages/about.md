@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: Postdoctoral Researcher, <a href='#'>SwRI, Boulder, CO, USA</a>.
 

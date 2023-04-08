@@ -4,8 +4,8 @@ title: Travel
 permalink: /travel/
 description: My Journeys.
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+nav_order: 4
+display_categories: [India, Outside India]
 horizontal: false
 ---
 

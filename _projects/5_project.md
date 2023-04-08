@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Kodaikanal
+description: My trip to Kodaikanal
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: India
 ---
 
 Every project has a beautiful feature showcase page.

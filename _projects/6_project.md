@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Switzerland
+description: My trip to Switzerland
+img: assets/img/leh1.jpg
 importance: 4
-category: fun
+category: Outside India
 ---
 
 Every project has a beautiful feature showcase page.

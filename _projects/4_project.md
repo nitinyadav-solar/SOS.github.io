@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
+title: South Korea
 description: another without an image
-img:
+img: assets/img/leh1.jpg
 importance: 3
-category: fun
+category: Outside India
 ---
 
 Every project has a beautiful feature showcase page.

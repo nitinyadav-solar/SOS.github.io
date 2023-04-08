@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Germany
+description: My Trip to Germany
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Outside India
 ---
 
 A memorable journey into the Himalayas.
