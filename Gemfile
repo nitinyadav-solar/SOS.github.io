@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
+
 group :jekyll_plugins do
     gem 'classifier-reborn'
-    gem "jekyll", "~> 3.9.0"
-    gem "github-pages", group: :jekyll_plugins
-    gem "jekyll-scholar", "~> 5.16"
-    gem "jekyll-diagrams", "~> 0.5.0" # Adjust if necessary
+    gem "github-pages"
+    gem "jekyll-scholar"
+    gem "jekyll-diagrams"
     gem "kramdown-parser-gfm"
     gem 'jekyll-archives'
     gem 'jekyll-email-protect'
@@ -21,6 +21,7 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'faraday-retry'
 end
+
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
