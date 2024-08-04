@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Bibhuti Kumar Jha
+      value: Nitin Yadav
     - name: Native
-      value: Madhubani, Bihar, India
+      value: Rajsthan, India
     - name: Languages
-      value: Maithili, Hindi, English
+      value: Hindi, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: Indian Institute of Astrophysics, Bangalore, India
-      year: 2022
+      institution: IIT Delhi
+      year: 2015
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -22,18 +22,18 @@
       #       - Sub-description 1.
       #       - Sub-description 2.
     - title: Master of Science (Physics)
-      institution: University of Delhi, New Delhi, India
-      year: 2016
-    - title: Bachalor of Science (Physics)
-      institution: University of Delhi, New Delhi, India
-      year: 2014
+      institution: Panjab University Chandigarh
+      year: 2009
+    - title: Bachalor of Science 
+      institution: SGN Khala College Sriganganagar
+      year: 2007
 
 - title: Experience
   type: time_table
   contents:
     - title: Postdoctoral Resercher
-      institution: Southwest Research Institute, Boulder, CO, USA 
-      year: 2023 - 
+      institution: KU Leuven 
+      year: 2020 - 2022
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -41,24 +41,15 @@
       #     contents:
       #       - Sub-description 1.
       #       - Sub-description 2.
-    - title: Senior Research Fellow
-      institution: Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital, India
-      year: 2020-2022
+    - title: Postdoctoral Resercher
+      institution: MPS Germany
+      year: 2017-2020
 
-    - title: Senior Research Fellow
-      institution: Indian Institute of Astrophysics, Bangalore, India
-      year: 2019-2020
+    - title: Postdoctoral Resercher
+      institution: IIT Delhi
+      year: 2015-2017
 
-    - title: Junior Research Fellow
-      institution: Indian Institute of Astrophysics, Bangalore, India
-      year: 2017-2019
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 # - title: Honors and Awards
 #   type: time_table
@@ -70,20 +61,3 @@
 #     - year: 2029
 #       items: 
 #         - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
