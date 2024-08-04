@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Bibhuti
-middle_name: Kumar
-last_name: Jha
+first_name: Nitin
+middle_name: #
+last_name: Yadav
 # email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  You will be looking at the personal page of Bibhuti Kumar Jha.
+  You will be looking at the personal page of Nitin Yadav.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -259,8 +259,8 @@ display_tags: ['astrophotography', 'travel', 'code', 'math'] # this tags will be
 
 scholar:
 
-  last_name: [Jha]
-  first_name: [Bibhuti Kumar]
+  last_name: [Yadav]
+  first_name: [Nitin]
 
   style: apa
   locale: en
